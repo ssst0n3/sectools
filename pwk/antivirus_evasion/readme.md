@@ -1,0 +1,1 @@
+* [Avira_Free_Antivirus_v15.0.34.16.exe](https://sectools.obs.cn-south-1.myhuaweicloud.com/pwk/antivirus_evasion/Avira_Free_Antivirus_v15.0.34.16.exe)
