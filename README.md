@@ -1,2 +1,0 @@
-# dockerized_sectools
-# sectools
